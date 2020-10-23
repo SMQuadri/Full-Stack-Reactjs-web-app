@@ -2,7 +2,7 @@
 
 ## SPA Link: https://netflix-10001.web.app/
 
-This Netflix clone was built using ReactJS at the client's side and Firebase for backend and hosting purposes. This project includes the implementation of React's custom hooks, Redux, React routing, Reusable components, React elastic carousel, device responsiveness and user authentication & tracking using Firebase.
+This Netflix clone was built using ReactJS at the client's side and Firebase for backend and hosting purposes. This project includes the implementation of React's custom hooks, Redux, React routing, Reusable components, React elastic carousel, responsive web designing and user authentication & tracking using Firebase.
 This entire application consists of different pages where some are protected routes and can be accessed only when the user is logged in.
 
 ## Home Page:
@@ -45,7 +45,7 @@ This entire application consists of different pages where some are protected rou
 ![UserAccount1](https://user-images.githubusercontent.com/55687431/97048397-f9cae200-1597-11eb-8f66-2d46661a8990.JPG)
 
 
-# Device Responsiveness:
+# Mobile Responsiveness:
 ![DR1](https://user-images.githubusercontent.com/55687431/97046783-86c06c00-1595-11eb-8f71-7d9080dfdc02.JPG)
 ![DR2](https://user-images.githubusercontent.com/55687431/97046807-93dd5b00-1595-11eb-90c4-9d2d763333f0.JPG)
 ![DR3](https://user-images.githubusercontent.com/55687431/97047080-09e1c200-1596-11eb-9423-10c23b3accdc.JPG)
