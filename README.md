@@ -5,7 +5,7 @@
 This Netflix clone was built using ReactJS at the client's side and Firebase for backend and hosting purposes. This project includes the implementation of React's custom hooks, Redux, React routing, Reusable components, React elastic carousel, device responsiveness and user authentication & tracking using Firebase.
 This entire application consists of different pages where some are protected routes and can be accessed only when the user is logged in.
 
-## Netflix's Home Page:
+## Home Page:
 ![HomePage](https://user-images.githubusercontent.com/55687431/97045742-ed448a80-1593-11eb-92e4-4957b54fea08.JPG)
 ![HomePage2](https://user-images.githubusercontent.com/55687431/97047261-51684e00-1596-11eb-809c-bab4cfa0fc6b.JPG)
 ![HomePage3](https://user-images.githubusercontent.com/55687431/97047294-5d541000-1596-11eb-87da-85c30406df66.JPG)
