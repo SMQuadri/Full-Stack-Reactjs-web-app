@@ -1,0 +1,62 @@
+[
+  {
+    "id": 121,
+    "title": "A Star Is Born",
+    "description":
+      "After falling in love with struggling artist Ally, Jackson, a musician, coaxes her to follow her dreams, while he battles with alcoholism and his personal demons.",
+    "genre": "romance",
+    "maturity": "15",
+    "slug": "a-star-is-born",
+    "category": "movies",
+    "img1": "/images/films/romance/a-star-is-born/small.jpg",
+    "img2": "/images/films/romance/a-star-is-born/large.jpg"
+  },
+  {
+    "id": 122,
+    "title": "Blue Valentine",
+    "description":
+      "Dean and Cynthia are married with a daughter and their marriage is about to fall apart. Both come from dysfunctional families and struggle to make sense of their relationship.",
+    "genre": "romance",
+    "maturity": "15",
+    "slug": "blue-valentine",
+    "category": "movies",
+    "img1": "/images/films/romance/blue-valentine/small.jpg",
+    "img2": "/images/films/romance/blue-valentine/large.jpg"
+  },
+  {
+    "id": 123,
+    "title": "La La Land",
+    "description":
+      "Sebastian (Ryan Gosling) and Mia (Emma Stone) are drawn together by their common desire to do what they love. But as success mounts they are faced with decisions that begin...",
+    "genre": "romance",
+    "maturity": "15",
+    "slug": "la-la-land",
+    "category": "movies",
+    "img1": "/images/films/romance/la-la-land/small.jpg",
+    "img2": "/images/films/romance/la-la-land/large.jpg"
+  },
+  {
+    "id": 124,
+    "title": "The Notebook",
+    "description":
+      "Duke reads the story of Allie and Noah, two lovers who were separated by fate, to Ms Hamilton, an old woman who suffers from Alzheimer's, on a daily basis out of his notebook.",
+    "genre": "romance",
+    "maturity": "15",
+    "slug": "the-notebook",
+    "category": "movies",
+    "img1": "/images/films/romance/the-notebook/small.jpg",
+    "img2": "/images/films/romance/the-notebook/large.jpg"
+  },
+  {
+    "id": 125,
+    "title": "Titanic",
+    "description":
+      "Seventeen-year-old Rose hails from an aristocratic family and is set to be married. When she boards the Titanic, she meets Jack Dawson, an artist, and falls in love with him.",
+    "genre": "romance",
+    "maturity": "15",
+    "slug": "titanic",
+    "category": "movies",
+    "img1": "/images/films/romance/titanic/small.jpg",
+    "img2": "/images/films/romance/titanic/large.jpg"
+  }
+]

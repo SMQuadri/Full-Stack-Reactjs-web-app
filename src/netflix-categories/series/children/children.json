@@ -1,0 +1,62 @@
+[
+  {
+    "id": 11,
+    "title": "Peppa Pig",
+    "description":
+      "Peppa, an outgoing preschool pig, participates in many energetic activities. She learns something new every day and has a lot of fun with her family and friends.",
+    "genre": "children",
+    "maturity": "0",
+    "slug": "peppa-pig",
+    "category": "series",
+    "img1": "/images/series/children/peppa-pig/small.jpg",
+    "img2": "/images/series/children/peppa-pig/large.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Dora The Explorer",
+    "description":
+      "Dora, a seven-year-old girl of Latin American descent, embarks upon numerous adventures in the wilderness with her friend Boots, a monkey, and a variety of fun and useful tools.",
+    "genre": "children",
+    "maturity": "0",
+    "slug": "dora-the-explorer",
+    "category": "series",
+    "img1": "/images/series/children/dora-the-explorer/small.jpg",
+    "img2": "/images/series/children/dora-the-explorer/large.jpg"
+  },
+  {
+    "id": 13,
+    "title": "PAW Patrol",
+    "description":
+      "Six brave puppies, captained by a tech-savvy ten-year-old boy, Ryder, work together to accomplish high-stakes rescue missions to safeguard the residents of the Adventure Bay community.",
+    "genre": "children",
+    "maturity": "0",
+    "slug": "paw-patrol",
+    "category": "series",
+    "img1": "/images/series/children/paw-patrol/small.jpg",
+    "img2": "/images/series/children/paw-patrol/large.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Arthur",
+    "description":
+      "Bespectacled aardvark Arthur Read demonstrates to kids how to deal with such childhood traumas and challenges as homework, teachers and bullies.",
+    "genre": "children",
+    "maturity": "0",
+    "slug": "arthur",
+    "category": "series",
+    "img1": "/images/series/children/arthur/small.jpg",
+    "img2": "/images/series/children/arthur/large.jpg"
+  },
+  {
+    "id": 15,
+    "title": "SpongeBob",
+    "description":
+      "A yellow sea sponge named SpongeBob SquarePants lives in the city of Bikini Bottom deep in the Pacific Ocean. ",
+    "genre": "children",
+    "maturity": "0",
+    "slug": "spongebob",
+    "category": "series",
+    "img1": "/images/series/children/spongebob/small.jpg",
+    "img2": "/images/series/children/spongebob/large.jpg"
+  }
+]

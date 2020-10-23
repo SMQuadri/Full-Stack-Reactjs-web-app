@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "title": "Tiger King",
+    "description": "An exploration of big cat breeding and its bizarre underworld, populated by eccentric characters.",
+    "genre": "documentaries",
+    "maturity": "18",
+    "slug": "tiger-king",
+    "category": "series",
+    "img1": "/images/series/documentaries/tiger-king/small.jpg",
+    "img2": "/images/series/documentaries/tiger-king/large.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Amanda Knox",
+    "description": "Amanda Marie Knox is an American woman who spent almost four years in an Italian prison.",
+    "genre": "documentaries",
+    "maturity": "12",
+    "slug": "amanda-knox",
+    "category": "series",
+    "img1": "/images/series/documentaries/amanda-knox/small.jpg",
+    "img2": "/images/series/documentaries/amanda-knox/large.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Citizenfour",
+    "description":
+      "Citizenfour is a 2014 documentary film directed by Laura Poitras, concerning Edward Snowden and the NSA spying scandal.",
+    "genre": "documentaries",
+    "maturity": "12",
+    "slug": "citizenfour",
+    "category": "series",
+    "img1": "/images/series/documentaries/citizenfour/small.jpg",
+    "img2": "/images/series/documentaries/citizenfour/large.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Super Size Me",
+    "description":
+      "Director Morgan Spurlock's social experiment in fast-food gastronomy sees him attempting to subsist uniquely on food from the McDonalds",
+    "genre": "documentaries",
+    "maturity": "12",
+    "slug": "super-size-me",
+    "category": "series",
+    "img1": "/images/series/documentaries/super-size-me/small.jpg",
+    "img2": "/images/series/documentaries/super-size-me/large.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Man on Wire",
+    "description":
+      "Filmmaker James Marsh masterfully recreates high-wire daredevil Philippe Petit's 1974 stunt walking on a wire across the Twin Towers.",
+    "genre": "documentaries",
+    "maturity": "12",
+    "slug": "man-on-wire",
+    "category": "series",
+    "img1": "/images/series/documentaries/man-on-wire/small.jpg",
+    "img2": "/images/series/documentaries/man-on-wire/large.jpg"
+  }
+]

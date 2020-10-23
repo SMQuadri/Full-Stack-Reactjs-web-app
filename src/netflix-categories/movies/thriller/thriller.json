@@ -1,0 +1,62 @@
+[
+  {
+    "id": 116,
+    "title": "Joker",
+    "description":
+      "Forever alone in a crowd, failed comedian Arthur Fleck seeks connection as he walks the streets of Gotham City.",
+    "genre": "thriller",
+    "maturity": "15",
+    "slug": "joker",
+    "category": "movies",
+    "img1": "/images/films/thriller/joker/small.jpg",
+    "img2": "/images/films/thriller/joker/large.jpg"
+  },
+  {
+    "id": 117,
+    "title": "A Quiet Place",
+    "description":
+      "The Abbott family must now face the terrors of the outside world as they fight for survival in silence. Forced to venture into the unknown, they realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path.",
+    "genre": "thriller",
+    "maturity": "15",
+    "slug": "a-quiet-place",
+    "category": "movies",
+    "img1": "/images/films/thriller/a-quiet-place/small.jpg",
+    "img2": "/images/films/thriller/a-quiet-place/large.jpg"
+  },
+  {
+    "id": 118,
+    "title": "Black Swan",
+    "description":
+      "Nina, a ballerina, gets the chance to play the White Swan, Princess Odette. But she finds herself slipping into madness when Thomas, the artistic director, decides that Lily might fit the role better.",
+    "genre": "thriller",
+    "maturity": "15",
+    "slug": "black-swan",
+    "category": "movies",
+    "img1": "/images/films/thriller/black-swan/small.jpg",
+    "img2": "/images/films/thriller/black-swan/large.jpg"
+  },
+  {
+    "id": 119,
+    "title": "Nightcrawler",
+    "description":
+      "Louis Bloom, a petty thief, realises that he can make money by capturing photographs of criminal activities and starts resorting to extreme tactics to get them.",
+    "genre": "thriller",
+    "maturity": "15",
+    "slug": "nightcrawler",
+    "category": "movies",
+    "img1": "/images/films/thriller/nightcrawler/small.jpg",
+    "img2": "/images/films/thriller/nightcrawler/large.jpg"
+  },
+  {
+    "id": 120,
+    "title": "The Silence of The Lambs",
+    "description":
+      "Clarice Starling, an FBI agent, seeks help from Hannibal Lecter, a psychopathic serial killer and former psychiatrist, in order to apprehend another serial killer who has been claiming female victims.",
+    "genre": "thriller",
+    "maturity": "15",
+    "slug": "the-silence-of-the-lambs",
+    "category": "movies",
+    "img1": "/images/films/thriller/the-silence-of-the-lambs/small.jpg",
+    "img2": "/images/films/thriller/the-silence-of-the-lambs/large.jpg"
+  }
+]

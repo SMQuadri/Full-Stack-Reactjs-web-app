@@ -1,0 +1,73 @@
+[
+  {
+    "id": 2000,
+    "title": "The Irishman",
+    "description": "'The Irishman' is a fictionalized true crime story about the disappearance of Jimmy Hoffa, a mystery that still hasn't been solved. Long-time International Brotherhood of Teamsters boss, James 'Jimmy' Hoffa, went missing in 1975.",
+    "genre": "drama",
+    "maturity": "18",
+    "slug": "the-irishman",
+    "category": "movies",
+    "img1": "/images/films/drama/the-irishman/theIrishman.jpg",
+    "img2": "/images/films/drama/the-irishman/theIrishman.jpg"
+  },
+  {
+    "id": 101,
+    "title": "The Prestige",
+    "description":
+      "Two friends and fellow magicians become bitter enemies after a sudden tragedy. As they devote themselves to this rivalry, they make sacrifices that bring them fame but with terrible consequences.",
+    "genre": "drama",
+    "maturity": "15",
+    "slug": "the-prestige",
+    "category": "movies",
+    "img1": "/images/films/drama/the-prestige/small.jpg",
+    "img2": "/images/films/drama/the-prestige/large.jpg"
+  },
+  {
+    "id": 102,
+    "title": "Fight Club",
+    "description":
+      "Discontented with his capitalistic lifestyle, a white-collared insomniac forms an underground fight club with Tyler, a careless soap salesman. The project soon spirals down into something sinister.",
+    "genre": "drama",
+    "maturity": "15",
+    "slug": "fight-club",
+    "category": "movies",
+    "img1": "/images/films/drama/fight-club/small.jpg",
+    "img2": "/images/films/drama/fight-club/large.jpg"
+  },
+  {
+    "id": 103,
+    "title": "Kings Speech",
+    "description":
+      "King George VI tries to overcome his stammering problem with the help of speech therapist Lionel Logue and makes himself worthy enough to lead his country through World War II.",
+    "genre": "drama",
+    "maturity": "15",
+    "slug": "kings-speech",
+    "category": "movies",
+    "img1": "/images/films/drama/kings-speech/small.jpg",
+    "img2": "/images/films/drama/kings-speech/large.jpg"
+  },
+  {
+    "id": 104,
+    "title": "The Revenant",
+    "description":
+      "Hugh Glass, a legendary frontiersman, is severely injured in a bear attack and is abandoned by his hunting crew. He uses his skills to survive and take revenge on his companion, who betrayed him.",
+    "genre": "drama",
+    "maturity": "15",
+    "slug": "the-revenant",
+    "category": "movies",
+    "img1": "/images/films/drama/the-revenant/small.jpg",
+    "img2": "/images/films/drama/the-revenant/large.jpg"
+  },
+  {
+    "id": 105,
+    "title": "The Social Network",
+    "description":
+      "Mark Zuckerberg creates a social networking site, Facebook, with the help of his friend Eduardo Saverin. But soon, a string of lies tears their relationship apart even as Facebook connects people.",
+    "genre": "drama",
+    "maturity": "12",
+    "slug": "the-social-network",
+    "category": "movies",
+    "img1": "/images/films/drama/the-social-network/small.jpg",
+    "img2": "/images/films/drama/the-social-network/large.jpg"
+  }
+]

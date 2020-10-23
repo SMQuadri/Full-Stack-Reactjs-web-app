@@ -1,0 +1,62 @@
+[
+  {
+    "id": 111,
+    "title": "Hotel Transylvania",
+    "description":
+      "Dracula, who owns a high-end resort for monsters, attempts to keep his daughter from falling in love with Jonathan, a human.",
+    "genre": "children",
+    "maturity": "0",
+    "slug": "hotel-transylvania",
+    "category": "movies",
+    "img1": "/images/films/children/hotel-transylvania/small.jpg",
+    "img2": "/images/films/children/hotel-transylvania/large.jpg"
+  },
+  {
+    "id": 112,
+    "title": "Despicable Me",
+    "description":
+      "Gru, a criminal mastermind, adopts three orphans as pawns to carry out the biggest heist in history. His life takes an unexpected turn when the little girls see him as their potential father.",
+    "genre": "children",
+    "maturity": "0",
+    "slug": "despicable-me",
+    "category": "movies",
+    "img1": "/images/films/children/despicable-me/small.jpg",
+    "img2": "/images/films/children/despicable-me/large.jpg"
+  },
+  {
+    "id": 113,
+    "title": "Frozen",
+    "description":
+      "Anna sets out on a journey with an iceman, Kristoff, and his reindeer, Sven, in order to find her sister, Elsa, who has the power to convert any object or person into ice.",
+    "genre": "children",
+    "maturity": "0",
+    "slug": "frozen",
+    "category": "movies",
+    "img1": "/images/films/children/frozen/small.jpg",
+    "img2": "/images/films/children/frozen/large.jpg"
+  },
+  {
+    "id": 114,
+    "title": "Spirited Away",
+    "description":
+      "In this animated feature by noted Japanese director Hayao Miyazaki, 10-year-old Chihiro (Rumi Hiiragi) and her parents (Takashi Naitô, Yasuko Sawaguchi) stumble upon a seemingly abandoned amusement park.",
+    "genre": "children",
+    "maturity": "0",
+    "slug": "spirited-away",
+    "category": "movies",
+    "img1": "/images/films/children/spirited-away/small.jpg",
+    "img2": "/images/films/children/spirited-away/large.jpg"
+  },
+  {
+    "id": 115,
+    "title": "Up",
+    "description":
+      "Carl, an old widower, goes off on an adventure in his flying house in search of Paradise Falls, his wife's dream destination.",
+    "genre": "children",
+    "maturity": "0",
+    "slug": "up",
+    "category": "movies",
+    "img1": "/images/films/children/up/small.jpg",
+    "img2": "/images/films/children/up/large.jpg"
+  }
+]

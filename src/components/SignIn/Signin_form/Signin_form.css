@@ -1,0 +1,199 @@
+.siForm {
+  background: url("../../Home/Header/home-bg.jpg");
+  width: 100%;
+  max-width: 100vw;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.siForm__logo {
+  height: 45px;
+  width: 167px;
+  margin-top: 30px;
+  margin-left: 50px;
+}
+
+.siForm__form1 {
+  width: 100%;
+  max-width: 100vw;
+  height: 105vh;
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.siForm__form {
+  width: 450px;
+  height: 590px;
+  background-color: rgba(0, 0, 0, 0.8);
+  display: flex;
+  flex-direction: column;
+  padding: 50px 60px;
+}
+
+.siForm__title {
+  color: white;
+  font-size: 33px;
+  font-weight: 500;
+  margin-bottom: 25px;
+}
+
+.siForm__error {
+  background: #e87c03;
+  border-radius: 5px;
+  font-size: 14px;
+  margin: 0 0 16px;
+  color: white;
+  padding: 15px 20px;
+}
+
+.siForm__input {
+  outline: none;
+  border: none;
+  width: 330px;
+  height: 50px;
+  margin-bottom: 20px;
+  background-color: rgb(66, 66, 66);
+  border-radius: 5px;
+  font-size: 18px;
+  padding: 0 20px;
+  color: white;
+}
+
+.siForm__button {
+  margin-top: 25px;
+  outline: none;
+  border: none;
+  width: 330px;
+  height: 50px;
+  border-radius: 5px;
+  background-color: rgb(209, 0, 0);
+  color: white;
+  font-size: 22px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  cursor: pointer;
+  transition: all 0.5s ease;
+}
+
+.siForm__button:hover {
+  background-color: red;
+}
+
+.siForm__subtitle {
+  display: flex;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.siForm__new {
+  color: rgb(143, 143, 143);
+  font-size: 17px;
+  font-weight: 300;
+  margin-right: 10px;
+}
+
+.siForm__signup {
+  color: white;
+  font-size: 19px;
+  font-weight: 400;
+  cursor: pointer;
+  transition: all 0.5s ease;
+}
+
+.siForm__signup:hover {
+  text-decoration: underline;
+}
+
+.siForm__desc {
+  color: rgb(143, 143, 143);
+  font-size: 13px;
+  margin-top: 12px;
+}
+
+.siForm__learn {
+  margin-left: 5px;
+  color: rgb(83, 83, 245);
+  cursor: pointer;
+}
+
+.siForm__learn:hover {
+  text-decoration: underline;
+}
+
+.siForm__footer {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding-top: 1px;
+}
+
+@media screen and (max-width: 450px) {
+  .siForm__logo {
+    height: 30px;
+    width: 110px;
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+
+  .siForm__form {
+    background: rgba(0, 0, 0, 0.7);
+    width: 250px;
+    height: 460px;
+    padding: 20px 20px;
+  }
+  
+  .siForm__title {
+    font-size: 25px;
+    margin-bottom: 17px;
+  }
+  
+  .siForm__error {
+    border-radius: 5px;
+    font-size: 13px;
+    padding: 8px 18px;
+  }
+  
+  .siForm__input {
+    width: 210px;
+    height: 35px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 0 18px;
+  }
+  
+  .siForm__button {
+    margin-top: 15px;
+    width: 210px;
+    height: 35px;
+    border-radius: 5px;
+    font-size: 18px;
+  }
+
+  .siForm__subtitle {
+    margin-top: 30px;
+  }
+  
+  .siForm__new {
+    font-size: 13px;
+    margin-right: 10px;
+  }
+  
+  .siForm__signup {
+    font-size: 16px;
+  }
+
+  .siForm__desc {
+    font-size: 12px;
+    margin-top: 10px;
+  }
+  
+  .siForm__learn {
+    margin-left: 5px;
+  }
+  
+  .siForm__footer {
+    padding-top: 1px;
+  }
+}

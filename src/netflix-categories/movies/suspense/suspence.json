@@ -1,0 +1,62 @@
+[
+  {
+    "id": 106,
+    "title": "Shutter Island",
+    "description":
+      "Teddy Daniels and Chuck Aule, two US marshals, are sent to an asylum on a remote island in order to investigate the disappearance of a patient, where Teddy uncovers a shocking truth about the place.",
+    "genre": "suspense",
+    "maturity": "15",
+    "slug": "shutter-island",
+    "category": "movies",
+    "img1": "/images/films/suspense/shutter-island/small.jpg",
+    "img2": "/images/films/suspense/shutter-island/large.jpg"
+  },
+  {
+    "id": 107,
+    "title": "Gone Girl",
+    "description":
+      "Nick Dunne discovers that the entire media focus has shifted on him when his wife Amy Dunne disappears on the day of their fifth wedding anniversary.",
+    "genre": "suspense",
+    "maturity": "15",
+    "slug": "gone-girl",
+    "category": "movies",
+    "img1": "/images/films/suspense/gone-girl/small.jpg",
+    "img2": "/images/films/suspense/gone-girl/large.jpg"
+  },
+  {
+    "id": 108,
+    "title": "Prisoners",
+    "description":
+      "When the police take time to find Keller Dover's daughter and her friend, he decides to go on a search himself. His desperation leads him closer to finding the truth and also jeopardises his own life.",
+    "genre": "suspense",
+    "maturity": "15",
+    "slug": "prisoners",
+    "category": "movies",
+    "img1": "/images/films/suspense/prisoners/small.jpg",
+    "img2": "/images/films/suspense/prisoners/large.jpg"
+  },
+  {
+    "id": 109,
+    "title": "Seven",
+    "description":
+      "A serial killer begins murdering people according to the seven deadly sins. Two detectives, one new to the city and the other about to retire, are tasked with apprehending the criminal.",
+    "genre": "suspense",
+    "maturity": "15",
+    "slug": "seven",
+    "category": "movies",
+    "img1": "/images/films/suspense/seven/small.jpg",
+    "img2": "/images/films/suspense/seven/large.jpg"
+  },
+  {
+    "id": 110,
+    "title": "Zodiac",
+    "description":
+      "Robert Graysmith, a cartoonist by profession, finds himself obsessively thinking about the Zodiac killer. He uses his puzzle-solving abilities to get closer to revealing the identity of the killer.",
+    "genre": "suspense",
+    "maturity": "15",
+    "slug": "zodiac",
+    "category": "movies",
+    "img1": "/images/films/suspense/zodiac/small.jpg",
+    "img2": "/images/films/suspense/zodiac/large.jpg"
+  }
+]

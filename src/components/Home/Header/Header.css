@@ -1,0 +1,180 @@
+.header {
+  color: white;
+  background: url("./home-bg.jpg");
+  width: 100%;
+  height: 110vh;
+  border-bottom: 8px solid rgb(61, 61, 61);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header__nav {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 30px 60px;
+}
+
+.header__logo {
+  height: 45px;
+  width: 167px;
+}
+
+.header__right {
+  display: flex;
+  align-items: center;
+}
+
+.header__browse {
+  background: transparent;
+  color: rgb(223, 223, 223);
+  border: 1px solid rgb(223, 223, 223);
+  font-size: 20px;
+  font-weight: 400;
+  padding: 5px 18px;
+  border-radius: 5px;
+  margin-right: 30px;
+  cursor: pointer;
+  transition: all 0.5s ease;
+}
+
+.header__browse:hover {
+  color: rgb(206, 2, 2);
+  background-color: rgb(231, 230, 230);
+}
+
+.header__signIn {
+  background-color: rgb(207, 5, 5);
+  color: white;
+  font-size: 20px;
+  font-weight: 400;
+  padding: 5px 18px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.5s ease;
+}
+
+.header__signIn:hover {
+  background-color: red;
+}
+
+.header__title {
+  margin-top: 130px;
+  margin-bottom: 10px;
+  font-size: 45px;
+  font-weight: 700;
+  max-width: 500px;
+  text-align: center;
+}
+
+.header__subTitle {
+  font-size: 23px;
+  font-weight: 400;
+}
+
+.header__bottomTitle {
+  margin-top: 30px;
+  margin-bottom: 20px;
+  font-size: 17px;
+  font-weight: 400;
+}
+
+.header__bottom {
+  display: flex;
+  align-items: center;
+}
+
+.header__email {
+  outline: none;
+  border: none;
+  padding: 15px 20px;
+  width: 450px;
+  font-size: 18px;
+}
+
+.header__button {
+  display: flex;
+  align-items: center;
+  background-color: rgb(211, 15, 15);
+  padding: 11px 20px;
+  cursor: pointer;
+  transition: all 0.5s ease;
+}
+
+.header__button:hover {
+  background-color: red;
+}
+
+.header__get {
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 1px;
+}
+
+@media screen and (max-width: 450px) {
+  .header {
+    height: 100vh;
+  }
+
+  .header__nav {
+    padding: 0;
+    padding: 8px 15px;
+  }
+
+  .header__logo {
+    height: 27px;
+    width: 95px;
+    margin-top: 5px;
+  }
+
+  .header__browse {
+    font-size: 13px;
+    font-weight: 400;
+    padding: 3px 8px;
+    border-radius: 4px;
+    margin-right: 12px;
+  }
+
+  .header__signIn {
+    font-size: 13px;
+    font-weight: 400;
+    padding: 3px 8px;
+    border-radius: 4px;
+  }
+
+  .header__title {
+    margin-top: 90px;
+    margin-bottom: 10px;
+    font-size: 27px;
+    max-width: 270px;
+  }
+  
+  .header__subTitle {
+    font-size: 15px;
+    max-width: 270px;
+  }
+  
+  .header__bottomTitle {
+    margin-top: 28px;
+    margin-bottom: 16px;
+    font-size: 13px;
+    max-width: 250px;
+    color: rgb(218, 218, 218);
+  }
+
+  .header__email {
+    padding: 8px 15px;
+    width: 160px;
+    font-size: 14px;
+  }
+  
+  .header__button {
+    padding: 4px 8px;
+  }
+
+  .header__get {
+    font-size: 11px;
+    letter-spacing: 0px;
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 6,
+    "title": "The Office",
+    "description":
+      "A motley group of office workers go through hilarious misadventures at the Scranton, Pennsylvania, branch of the Dunder Mifflin Paper Company.",
+    "genre": "comedies",
+    "maturity": "15",
+    "slug": "the-office",
+    "category": "series",
+    "img1": "/images/series/comedies/the-office/small.jpg",
+    "img2": "/images/series/comedies/the-office/large.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Arrested Development",
+    "description":
+      "The Bluth family, once a prominent name in the business, loses everything after the head patriarch gets convicted for fraud.",
+    "genre": "comedies",
+    "maturity": "15",
+    "slug": "arrested-development",
+    "category": "series",
+    "img1": "/images/series/comedies/arrested-development/small.jpg",
+    "img2": "/images/series/comedies/arrested-development/large.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Curb Your Enthusiasm",
+    "description":
+      "Larry David, a famous television writer and producer, gets into various misadventures with his friends and celebrity colleagues in Los Angeles.",
+    "genre": "comedies",
+    "maturity": "15",
+    "slug": "curb-your-enthusiasm",
+    "category": "series",
+    "img1": "/images/series/comedies/curb-your-enthusiasm/small.jpg",
+    "img2": "/images/series/comedies/curb-your-enthusiasm/large.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Family Guy",
+    "description":
+      "Peter Griffin and his family of two teenagers, a smart dog, a devilish baby and his wife find themselves in some of the most hilarious scenarios.",
+    "genre": "comedies",
+    "maturity": "15",
+    "slug": "family-guy",
+    "category": "series",
+    "img1": "/images/series/comedies/family-guy/small.jpg",
+    "img2": "/images/series/comedies/family-guy/large.jpg"
+  },
+  {
+    "id": 10,
+    "title": "South Park",
+    "description":
+      "Four young, schoolgoing boys, Stan Marsh, Kyle Broflovski, Eric Cartman and Kenny McCormick, who live in South Park set out on various adventures.",
+    "genre": "comedies",
+    "maturity": "15",
+    "slug": "south-park",
+    "category": "series",
+    "img1": "/images/series/comedies/south-park/small.jpg",
+    "img2": "/images/series/comedies/south-park/large.jpg"
+  }
+]

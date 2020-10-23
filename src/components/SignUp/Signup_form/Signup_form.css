@@ -1,0 +1,199 @@
+.suForm {
+  background: url("../../Home/Header/home-bg.jpg");
+  width: 100%;
+  max-width: 100vw;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.suForm__logo {
+  height: 45px;
+  width: 167px;
+  margin-top: 30px;
+  margin-left: 50px;
+}
+
+.suForm__form1 {
+  width: 100%;
+  max-width: 100vw;
+  height: 112vh;
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.suForm__form {
+  width: 450px;
+  height: 640px;
+  background-color: rgba(0, 0, 0, 0.8);
+  display: flex;
+  flex-direction: column;
+  padding: 50px 60px;
+}
+
+.suForm__title {
+  color: white;
+  font-size: 33px;
+  font-weight: 500;
+  margin-bottom: 25px;
+}
+
+.suForm__error {
+  background: #e87c03;
+  border-radius: 5px;
+  font-size: 14px;
+  margin: 0 0 16px;
+  color: white;
+  padding: 15px 20px;
+}
+
+.suForm__input {
+  outline: none;
+  border: none;
+  width: 330px;
+  height: 50px;
+  margin-bottom: 20px;
+  background-color: rgb(66, 66, 66);
+  border-radius: 5px;
+  font-size: 18px;
+  padding: 0 20px;
+  color: white;
+}
+
+.suForm__button {
+  margin-top: 25px;
+  outline: none;
+  border: none;
+  width: 330px;
+  height: 50px;
+  border-radius: 5px;
+  background-color: rgb(209, 0, 0);
+  color: white;
+  font-size: 22px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  cursor: pointer;
+  transition: all 0.5s ease;
+}
+
+.suForm__button:hover {
+  background-color: red;
+}
+
+.suForm__subtitle {
+  display: flex;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.suForm__new {
+  color: rgb(143, 143, 143);
+  font-size: 17px;
+  font-weight: 300;
+  margin-right: 10px;
+}
+
+.suForm__signup {
+  color: white;
+  font-size: 19px;
+  font-weight: 400;
+  cursor: pointer;
+  transition: all 0.5s ease;
+}
+
+.suForm__signup:hover {
+  text-decoration: underline;
+}
+
+.suForm__desc {
+  color: rgb(143, 143, 143);
+  font-size: 13px;
+  margin-top: 12px;
+}
+
+.suForm__learn {
+  margin-left: 5px;
+  color: rgb(83, 83, 245);
+  cursor: pointer;
+}
+
+.suForm__learn:hover {
+  text-decoration: underline;
+}
+
+.suForm__footer {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding-top: 1px;
+}
+
+@media screen and (max-width: 450px) {
+  .suForm__logo {
+    height: 30px;
+    width: 110px;
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+
+  .suForm__form {
+    background: rgba(0, 0, 0, 0.7);
+    width: 265px;
+    height: 500px;
+    padding: 20px 20px;
+  }
+  
+  .suForm__title {
+    font-size: 25px;
+    margin-bottom: 17px;
+  }
+  
+  .suForm__error {
+    border-radius: 5px;
+    font-size: 13px;
+    padding: 8px 18px;
+  }
+  
+  .suForm__input {
+    width: 225px;
+    height: 35px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 0 18px;
+  }
+  
+  .suForm__button {
+    margin-top: 15px;
+    width: 225px;
+    height: 35px;
+    border-radius: 5px;
+    font-size: 18px;
+  }
+
+  .suForm__subtitle {
+    margin-top: 30px;
+  }
+  
+  .suForm__new {
+    font-size: 12px;
+    margin-right: 10px;
+  }
+  
+  .suForm__signup {
+    font-size: 15px;
+  }
+
+  .suForm__desc {
+    font-size: 12px;
+    margin-top: 10px;
+  }
+  
+  .suForm__learn {
+    margin-left: 5px;
+  }
+  
+  .suForm__footer {
+    padding-top: 1px;
+  }
+}

@@ -1,0 +1,73 @@
+[
+  {
+    "id": 16,
+    "title": "Making a Murderer",
+    "description":
+      "Exonerated after spending nearly two decades in prison for a crime he did not commit, Steven Avery filed suit against Manitowoc County, Wis., and several individuals involved with his arrest.",
+    "genre": "crime",
+    "maturity": "18",
+    "slug": "making-a-murderer",
+    "category": "series",
+    "img1": "/images/series/crime/making-a-murderer/small.jpg",
+    "img2": "/images/series/crime/making-a-murderer/large.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Long Shot",
+    "description":
+      "An innocent man is accused of murder, leading his attorney on a wild chase to confirm his alibi using raw footage from a television show.",
+    "genre": "crime",
+    "maturity": "18",
+    "slug": "long-shot",
+    "category": "series",
+    "img1": "/images/series/crime/long-shot/small.jpg",
+    "img2": "/images/series/crime/long-shot/large.jpg"
+  },
+  {
+    "id": 1000,
+    "title": "The Punisher",
+    "description": "A former Marine out to punish the criminals responsible for his family's murder finds himself ensnared in a military conspiracy. He then becomes a vigilante with a uniquely brutal brand of justice.",
+    "genre": "crime",
+    "maturity": "18",
+    "slug": "the-punisher",
+    "category": "series",
+    "img1": "/images/series/crime/the-punisher/thePunisher2.jpg",
+    "img2": "/images/series/crime/the-punisher/thePunisher2.jpg"
+  },
+  {
+    "id": 18,
+    "title": "The Confession Killer",
+    "description":
+      "Henry Lee Lucas was an American convicted serial killer whose crimes spanned from 1960 to 1983. He was convicted of murdering eleven people and condemned to death for the murder of Debra Jackson.",
+    "genre": "crime",
+    "maturity": "18",
+    "slug": "the-confession-killer",
+    "category": "series",
+    "img1": "/images/series/crime/the-confession-killer/small.jpg",
+    "img2": "/images/series/crime/the-confession-killer/large.jpg"
+  },
+  {
+    "id": 19,
+    "title": "The Innocent Man",
+    "description":
+      "Henry Lee Lucas was an American convicted serial killer whose crimes spanned from 1960 to 1983. He was convicted of murdering eleven people and condemned to death for the murder of Debra Jackson.",
+    "genre": "crime",
+    "maturity": "18",
+    "slug": "the-innocent-man",
+    "category": "series",
+    "img1": "/images/series/crime/the-innocent-man/small.jpg",
+    "img2": "/images/series/crime/the-innocent-man/large.jpg"
+  },
+  {
+    "id": 20,
+    "title": "The Staircase",
+    "description":
+      "In 2001 novelist Michael Peterson's wife died, and he claimed she perished after falling down stairs at their home. The medical examiner, however, determined that she had been beaten with a weapon",
+    "genre": "crime",
+    "maturity": "18",
+    "slug": "the-staircase",
+    "category": "series",
+    "img1": "/images/series/crime/the-staircase/small.jpg",
+    "img2": "/images/series/crime/the-staircase/large.jpg"
+  }
+]

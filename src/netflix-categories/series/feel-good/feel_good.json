@@ -1,0 +1,62 @@
+[
+  {
+    "id": 21,
+    "title": "Good Will Hunting",
+    "description":
+      "Will Hunting, a genius in mathematics, solves all the difficult mathematical problems. When he faces an emotional crisis, he takes help from psychiatrist Dr Sean Maguireto, who helps him recover.",
+    "genre": "feel-good",
+    "maturity": "12",
+    "slug": "good-will-hunting",
+    "category": "series",
+    "img1": "/images/series/feel-good/good-will-hunting/small.jpg",
+    "img2": "/images/series/feel-good/good-will-hunting/large.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Forrest Gump",
+    "description":
+      "Forrest Gump, a man with a low IQ, joins the army for service where he meets Dan and Bubba. However, he cannot stop thinking about his childhood sweetheart Jenny Curran, whose life is messed up.",
+    "genre": "feel-good",
+    "maturity": "12",
+    "slug": "forrest-gump",
+    "category": "series",
+    "img1": "/images/series/feel-good/forrest-gump/small.jpg",
+    "img2": "/images/series/feel-good/forrest-gump/large.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Juno",
+    "description":
+      "Social misfit Juno protects herself with a caustic wit, but her unplanned pregnancy has the teen getting more involved in the lives of her baby's adoptive parents than she expected.",
+    "genre": "feel-good",
+    "maturity": "12",
+    "slug": "juno",
+    "category": "series",
+    "img1": "/images/series/feel-good/juno/small.jpg",
+    "img2": "/images/series/feel-good/juno/large.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Midnight In Paris",
+    "description":
+      "Gil arrives with his fiancee and her family in Paris for a vacation, even as he tries to finish his debut novel. He is beguiled by the city, which takes him to a time past, away from his fiancee.",
+    "genre": "feel-good",
+    "maturity": "12",
+    "slug": "midnight-in-paris",
+    "category": "series",
+    "img1": "/images/series/feel-good/midnight-in-paris/small.jpg",
+    "img2": "/images/series/feel-good/midnight-in-paris/large.jpg"
+  },
+  {
+    "id": 25,
+    "title": "School of Rock",
+    "description":
+      "Dewey Finn, an amateur rock enthusiast, slyly takes up his friend's substitute teacher's job. Bearing no qualifications for it, he instead starts training the students to form a band.",
+    "genre": "feel-good",
+    "maturity": "12",
+    "slug": "school-of-rock",
+    "category": "series",
+    "img1": "/images/series/feel-good/school-of-rock/small.jpg",
+    "img2": "/images/series/feel-good/school-of-rock/large.jpg"
+  }
+]
