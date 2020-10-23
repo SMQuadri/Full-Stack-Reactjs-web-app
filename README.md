@@ -42,7 +42,7 @@ This entire application consists of different pages where some are protected rou
 
 
 ## User's Account Info:
-![UserAccount](https://user-images.githubusercontent.com/55687431/97046298-cc306980-1594-11eb-96bf-805326a183b1.JPG)
+![UserAccount1](https://user-images.githubusercontent.com/55687431/97048397-f9cae200-1597-11eb-8f66-2d46661a8990.JPG)
 
 
 # Device Responsiveness:
